@@ -1,0 +1,47 @@
+pythonic code:
+    - write
+    - https://towardsdatascience.com/5-ways-to-write-more-pythonic-code-a33069f968c
+    - https://www.python.org/dev/peps/pep-0008/
+    - https://realpython.com/python-pep8/
+
+
+Why Python:
+    - used for data science
+    - web developement
+    - machine learning
+    - scripting
+
+String:
+    - Hello World
+    - Multiples line string using double quotes
+    - Accessing characters in string using []
+    - Methods using dir (lower(), upper(), count(), find(), replace())
+    - help
+
+Integers and float:
+    - type() to see class<int> class<float>
+    - convertion 
+    # - Arithmetic Operators:
+    # - Addition:       3 + 2
+    # - Subtraction:    3 - 2
+    # - Multiplication: 3 * 2
+    # - Division:       3 / 2
+    # - Floor Division: 3 // 2
+    # - Exponent:       3 ** 2
+    # - Modulus:        3 % 2
+    
+    # Comparisons:
+    # - Equal:            3 == 2
+    # - Not Equal:        3 != 2
+    # - Greater Than:     3 > 2
+    # - Less Than:        3 < 2
+    # - Greater or Equal: 3 >= 2
+    # - Less or Equal:    3 <= 2
+
+List:
+    
+
+
+
+Resources:
+    - https://www.youtube.com/c/Coreyms/playlists
